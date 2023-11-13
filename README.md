@@ -1,4 +1,4 @@
 # first-demo
 This is my first GIT repository.
 <br>
-Author - Yash Chaudhar
+Author - Yash Chaudhary.
